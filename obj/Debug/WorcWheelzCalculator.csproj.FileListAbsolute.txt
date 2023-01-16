@@ -1,0 +1,15 @@
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\bin\Debug\WorcWheelzCalculator.exe.config
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\bin\Debug\WorcWheelzCalculator.exe
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\bin\Debug\WorcWheelzCalculator.pdb
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.csprojAssemblyReference.cache
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.exe
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.pdb
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\Year 1\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\bin\Debug\WorcWheelzCalculator.exe.config
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\Year 1\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\bin\Debug\WorcWheelzCalculator.exe
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\Year 1\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\bin\Debug\WorcWheelzCalculator.pdb
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\Year 1\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.csproj.AssemblyReference.cache
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\Year 1\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\Year 1\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\Year 1\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.exe
+C:\Users\Bartek\OneDrive - University of Worcester\Uni\Year 1\COMP 1447 Introduction To Object Oriented Programming\Other Resources\Assignment 2\WorcWheelzCalculator\obj\Debug\WorcWheelzCalculator.pdb
